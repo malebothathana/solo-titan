@@ -37,5 +37,24 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "."
-} 
+  "homepage": "http://.",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malebothathana/solo-titan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malebothathana/solo-titan/issues"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jsdom": "^26.1.0"
+  }
+}
