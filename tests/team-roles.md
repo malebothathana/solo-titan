@@ -1,4 +1,4 @@
-## Team Roles & Responsibilities
+## Team Roles & Responsibilities before we split into two groups (bug busters and solo titan)
 
 #### NOTE: These roles and responsibilities are subject to revision and will be updated as the project advances.
 
