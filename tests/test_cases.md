@@ -1,4 +1,4 @@
-#  bug busters
+#  solo titan
 
 Below are the test cases we were able to come up with as a group, making sure that we all participate and contribute into making the system as air-tight as possible.
 
