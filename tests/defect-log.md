@@ -1,6 +1,6 @@
 # CleanCity Waste Pickup Scheduler – Initial Defect Log (Week 2)
 
-##bug busters!!!
+##SOLO TITAN
 
 | Bug ID   | Description                                                 | Module             | Severity  | Status  | Notes                                                  |
 |----------|-------------------------------------------------------------|--------------------|-----------|---------|--------------------------------------------------------|
@@ -166,3 +166,20 @@
 - **Actual Result**: All inputs are cleared on error.
 
 
+
+# GITHUB LINKS
+https://github.com/malebothathana/solo-titan/issues/1
+
+https://github.com/malebothathana/solo-titan/issues/2
+
+https://github.com/malebothathana/solo-titan/issues/3
+
+https://github.com/malebothathana/solo-titan/issues/4
+
+https://github.com/malebothathana/solo-titan/issues/5
+
+https://github.com/malebothathana/solo-titan/issues/6
+
+https://github.com/malebothathana/solo-titan/issues/7
+
+https://github.com/malebothathana/solo-titan/issues/8
